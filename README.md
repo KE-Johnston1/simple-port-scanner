@@ -20,11 +20,7 @@ for port in ports:
         print(f"Port {port} is CLOSED")
     s.close()
 How to Run
+Logging Feature
 
-Open PowerShell
+This script saves scan results to a file called scan_results.txt. Each run includes a timestamp and a list of open/closed ports for the target IP.
 
-Type: python port_scanner.py
-
-When prompted, enter a target IP like 127.0.0.1 or scanme.nmap.org
-
-You’ll see which ports are open or closed
