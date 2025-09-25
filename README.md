@@ -1,7 +1,7 @@
 #  Simple Port Scanner
 
 This repository contains hands-on cybersecurity tools for learning network scanning and threat detection. It includes a Python-based port scanner and a honeypot simulation for logging unauthorized access attempts.
-s
+
 A basic Python port scanner built for hands-on cybersecurity practice. This tool scans common ports on a target IP address and logs the results to a timestamped file.
 
 ##  Features
